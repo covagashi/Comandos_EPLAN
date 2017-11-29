@@ -3,6 +3,7 @@
 
 Simplemente quiero aclarar que este script no es mio, lo he traducido de un foro aleman
 
-´´´[C#]
-fdfdsfsdfs
+Para crear un boton, solo hay que poner el siguiente comando.
+´´´C#
+ExecuteEplanAction
 ```
